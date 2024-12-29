@@ -9,7 +9,7 @@ const App = () => {
       <section className="hero is-light has-text-centered">
         <div className="hero-body">
           <div className="container">
-            <h1 className="is-size-1">ReactJS multi step form with validation</h1>
+            <h1 className="is-size-1">ReactJS Multi Step Form With Validation</h1>
           </div>
         </div>
       </section>
